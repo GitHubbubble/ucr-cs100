@@ -1,6 +1,6 @@
-0 / 100
+ 0    / 100  
 
-Makefile is nonconformant, the default rule should build ls.
+    Makefile is nonconformant, the default rule should build ls.
 Make ls does not place the ls executable in the bin directory.
 No test directory.
 
