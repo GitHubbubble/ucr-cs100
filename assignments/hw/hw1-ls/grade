@@ -1,6 +1,7 @@
- 75 / 100
+ 65 / 100
 
 regraded in office hours
+-10 mem leak cppcheck
 
     Makefile is nonconformant, the default rule should build ls.
 Make ls does not place the ls executable in the bin directory.
