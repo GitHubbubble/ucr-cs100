@@ -4,7 +4,7 @@ S.N.A.P.
 
 **What can it do?**
 
-Even though SNAP is just a young program, SNAP can provide very intresting/powerful data. Maybe I'm a sucker for data, but there's some really fun possiblilities!
+Even though SNAP is just a young program, SNAP can provide very interesting/powerful data. Maybe I'm a sucker for data, but there's some really fun possibilities!
 
 These are some of my favourite examples. 
 
@@ -28,6 +28,8 @@ Sudent grade vs. # of stars on every repository linked to their account
 
 ![](http://i.imgur.com/0evv6QA.png)
 
+
+Github offers the option to add your name in your profile. The following is a comparison 
 
 Student grade vs. their profile has their real name (1 means yes, 0 means no)
 
@@ -91,10 +93,10 @@ SNAP **requires** 2 things to function properly.
 * student information must be formatted correctly. Currently SNAP looks at student information posted in https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/people/students .
 If you want to change the location, the file is SNAP/start/res/namesmake.
 
-Once thse conditions are met, run ./BUILD while in the SNAP folder. After a good wait, you will have the data in a CSV file named "total.csv"
+Once these conditions are met, run ./BUILD while in the SNAP folder. After a good wait, you will have the data in a CSV file named "total.csv"
 
 Future Plans
 --
-SNAP has some very cool possibilites but it's lacking in two big ways. Low student count means low confidence in the data. Also, very few paramaters makes it hard to represent every aspect of a website.
+SNAP has some very cool possibilities but it's lacking in two big ways. Low student count means low confidence in the data. Also, very few parameters makes it hard to represent every aspect of a website.
 
 Trying SNAP on more students solves our first issue, it's my hope that SNAP is easy enough to add to that other people might want to get involved. I think if you could accurately estimate a grade from the data, there could be huge potential gains in student performance. 
