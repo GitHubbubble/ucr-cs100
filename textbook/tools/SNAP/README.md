@@ -80,7 +80,7 @@ SNAP was designed to be very easy to add upon. The picture demonstrates the tree
 
 ![](http://i.imgur.com/wmvG0Ua.jpg)
 
-BUILD calls on each website's 'make', each make calls it's parameter 'make's. Websites can have a as many parameters as we want. 
+BUILD calls on each website's 'make', each make calls it's parameter 'make's. Websites can have as many parameters as we want. 
 
 Parameter 'make's take information from the website and return a numerical value. 
 
