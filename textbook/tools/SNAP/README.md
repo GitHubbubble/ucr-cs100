@@ -90,7 +90,7 @@ How do I use it?
 --
 SNAP **requires** 2 things to function properly. 
 
-* [gitlearn](https://github.com/mikeizbicki/gitlearn) must be correctly installed and must be accessible as calcgrade.sh (This is how grades are fetched)
+* [gitlearn](https://github.com/mikeizbicki/gitlearn) must be correctly installed and must be accessible as calcgrade.sh (This is how grades are fetched) Since SNAP is now included in gitlearn, you won't have to worry about this so long as you just download gitlearn. 
 * student information must be formatted correctly. Currently SNAP looks at student information posted in https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/people/students .
 If you want to change the location, the file is SNAP/start/res/namesmake.
 
