@@ -47,29 +47,29 @@ Student grade vs. their username is some combination of letters then numbers (eg
 Student grade vs. size of website file 
 
 
-![](http://i.imgur.com/rj09s7z.png)
+![](http://i.imgur.com/w2Dg84T.png)
 
 Student grade vs. # of times their username was mentioned
 
 
-![](http://i.imgur.com/MOZ3AkO.png)
+![](http://i.imgur.com/2YcMgOh.png)
 
 Reddit
 ---
 Student grade vs. comment karma
 
 
-![](http://i.imgur.com/S1gv6T1.png)
+![](http://i.imgur.com/4LQvYqA.png)
 
 Student grade vs. link karma
 
 
-![](http://i.imgur.com/h3IbAm1.png)
+![](http://i.imgur.com/z9O0wqT.png)
 
 Student grade vs. Student grade vs. their username is some combination of letters then numbers (eg. dimitri001) (1 means yes, 0 means no)
 
 
-![](http://i.imgur.com/1aKnNTw.png)
+![](http://i.imgur.com/ZTmWM5P.png)
 
 
 You can look at more of the examples [here](http://imgur.com/a/KOzDP#0). 
