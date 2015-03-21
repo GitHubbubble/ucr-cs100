@@ -15,19 +15,19 @@ Github
 Student grade vs.  # of repositories tied to their account
 
 
-![](http://i.imgur.com/nKQfLdr.png)
+![](http://i.imgur.com/Uudb5iq.png)
 
 
 Student grade vs. # of repositories tied to their account that are forks
 
 
-![](http://i.imgur.com/uNcCegK.png)
+![](http://i.imgur.com/qTFjIp6.png)
 
 
 Sudent grade vs. # of stars on every repository linked to their account
 
 
-![](http://i.imgur.com/0evv6QA.png)
+![](http://i.imgur.com/lj5VLCI.png)
 
 
 Github offers the option to add your name in your profile. The following is a comparison 
@@ -35,13 +35,13 @@ Github offers the option to add your name in your profile. The following is a co
 Student grade vs. their profile has their real name (1 means yes, 0 means no)
 
 
-![](http://i.imgur.com/lmxokVZ.png)
+![](http://i.imgur.com/3ftJKR8.png)
 
 
 Student grade vs. their username is some combination of letters then numbers (eg. dimitri001) (1 means yes, 0 means no)
 
 
-![](http://i.imgur.com/nd2F3R4.png)
+![](http://i.imgur.com/IoPV6tY.png)
 
 
 Student grade vs. size of website file 
